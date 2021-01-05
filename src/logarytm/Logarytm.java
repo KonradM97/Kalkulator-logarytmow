@@ -18,6 +18,7 @@ public class Logarytm {
         // TODO code application logic here
         LogarytmJFrame frame = new LogarytmJFrame();
         frame.setVisible(true);
+
     }
     
 }
